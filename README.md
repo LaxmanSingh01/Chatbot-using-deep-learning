@@ -33,4 +33,9 @@ To check the complete list of capabilities and how to access them, type 'help' i
 
 ![1](https://user-images.githubusercontent.com/84785447/146732001-696c8f25-426a-4a90-bfdc-8c63ea5ef228.png)
 
+## To run the app follow below commands
+
+1 Install all the required libraries
+
+2 Type python app.py in cmd prompt
 
